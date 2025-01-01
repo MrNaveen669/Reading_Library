@@ -2,9 +2,8 @@
 This project demonstrates the creation of a reading library website using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The website includes a simple static site to describe library features, subscription plans, and multi-location availability. It is designed for libraries or institutions that want to showcase their services while offering users a modern and interactive experience.
 
 # Features
-Home Page :A welcoming landing page that introduces the library's mission and services with an appealing design and visuals.
+Home Page : A welcoming landing page that introduces the library's mission and services with an appealing design and visuals.
 About the Library
-
 A static page describing the library’s history, goals, and community engagement programs.
 Library Features Section Detailed descriptions of core features.
 
